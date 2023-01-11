@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "cuban-cuex",
-  "version": "1.0.43",
+  "version": "1.0.44",
   "author": "Luis Manuel Vidal P <luismanuel.8902@gmail.com>",
   "main": "src/index.js",
   "description": "A package to know about the cuban exchange in real time. CUP, MLC, USD.",

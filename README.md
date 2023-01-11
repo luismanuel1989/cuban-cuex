@@ -12,7 +12,7 @@ const UsdPrice = cuex.UsdPrice
 const EurPrice = cuex.EurPrice
 ```
 ### If you do console.log(cuex) you can see all the data that you can request from this package
-```json
+```js
 {
   EurPrice: '170.00',
   UsdPrice: '165.00',
