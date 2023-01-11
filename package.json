@@ -1,6 +1,7 @@
 {
+  "type": "module",
   "name": "cuban-cuex",
-  "version": "1.0.2",
+  "version": "1.0.39",
   "author": "Luis Manuel Vidal P <luismanuel.8902@gmail.com>",
   "main": "src/index.js",
   "description": "A package to know about the cuban exchange in real time. CUP, MLC, USD.",
@@ -17,5 +18,10 @@
     "mlc",
     "usd"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9"
+  }
 }
